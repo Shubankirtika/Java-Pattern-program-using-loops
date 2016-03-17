@@ -1,5 +1,5 @@
 # Java-Pattern-program-using-loops
-class Pattern
+class NumPattern
 {
   public static void main(String args[])
   {
@@ -32,12 +32,4 @@ class Pattern
         }
       }
     }
-      
-          System.out.println(" ");
-          }
-        }
-        b--;
-        }
-      }
-    } 
-            
+ 
